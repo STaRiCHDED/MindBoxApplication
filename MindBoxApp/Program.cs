@@ -73,10 +73,6 @@ foreach (var product in products)
 }
 
 // Реализация с помощью SQL:
-//SELECT Products.Name, Category = 
-//    CASE
-//WHEN CategoriesByProduct.ProductId = Products.Id THEN Categories.Name
-//    ELSE ''
-//END
-//    FROM Products full join CategoriesByProduct on Products.Id = CategoriesByProduct.ProductId 
+//SELECT Products.Name, Categories.Name
+//FROM Products full join CategoriesByProduct on Products.Id = CategoriesByProduct.ProductId 
 //full join Categories on Categories.Id = CategoriesByProduct.CategoryId
