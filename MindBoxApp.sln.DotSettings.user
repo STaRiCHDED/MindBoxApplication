@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=03369d08_002De484_002D4d34_002D834b_002Da05c2a93d263/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetPerimeter_Triangle_ReturnsCorrectPerimeter" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::818D6F97-2F64-43A6-8777-D7E9FA0F53DC::net6.0::UnitTest.NegativeNumberExceptions.RectangleConstructor_RectangleSides_ThrowsException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::818D6F97-2F64-43A6-8777-D7E9FA0F53DC::net6.0::UnitTest.NegativeNumberExceptions.TriangleConstructor_TriangleSides_ThrowsException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::818D6F97-2F64-43A6-8777-D7E9FA0F53DC::net6.0::UnitTest.NegativeNumberExceptions.CircleConstructor_CircleRadius_ThrowsException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::818D6F97-2F64-43A6-8777-D7E9FA0F53DC::net6.0::UnitTest.PerimeterTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::818D6F97-2F64-43A6-8777-D7E9FA0F53DC::net6.0::UnitTest.AreaTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::818D6F97-2F64-43A6-8777-D7E9FA0F53DC::net6.0::UnitTest.NegativeAndZeroNumberExceptions&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::818D6F97-2F64-43A6-8777-D7E9FA0F53DC::net6.0::UnitTest.TriangleExistenceException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::818D6F97-2F64-43A6-8777-D7E9FA0F53DC::net6.0::UnitTest.TriangleSquareness&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
