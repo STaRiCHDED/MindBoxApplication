@@ -1,11 +1,10 @@
 # MindBoxApplication
 Задание:
 
-- [x] Напишите на C# библиотеку для поставки внешним клиентам, которая умеет вычислять площадь круга по радиусу и треугольника по трем сторонам. 
-https://github.com/STaRiCHDED/MindBoxApplication/tree/main/GeometryFigures
+- [x] Напишите на C# библиотеку для поставки внешним клиентам, которая умеет вычислять площадь круга по радиусу и треугольника по трем сторонам. https://github.com/STaRiCHDED/MindBoxApplication/tree/main/GeometryFigures
 
 Дополнительно к работоспособности оцениваются:
-- [x] *Юнит-тесты
+- [x] *Юнит-тесты:
 https://github.com/STaRiCHDED/MindBoxApplication/tree/main/UnitTest
 
 - [x] *Легкость добавления других фигур
